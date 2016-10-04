@@ -1,0 +1,8 @@
+{
+	"name": "sevenpercent/http-request-interface",
+	"autoload": {
+		"psr-4": {
+			"SevenPercent\\": "src/"
+		}
+	}
+}
